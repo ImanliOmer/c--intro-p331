@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\introP331\introP331\obj\Debug\net6.0\introP331.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\introP331\introP331\obj\Debug\net6.0\introP331.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\introP331\introP331\obj\Debug\net6.0\introP331.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\introP331\introP331\obj\Debug\net6.0\introP331.AssemblyInfo.cs
+C:\Users\asus\Desktop\introP331\introP331\obj\Debug\net6.0\introP331.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\introP331\introP331\bin\Debug\net6.0\introP331.exe
+C:\Users\asus\Desktop\introP331\introP331\bin\Debug\net6.0\introP331.deps.json
+C:\Users\asus\Desktop\introP331\introP331\bin\Debug\net6.0\introP331.runtimeconfig.json
+C:\Users\asus\Desktop\introP331\introP331\bin\Debug\net6.0\introP331.dll
+C:\Users\asus\Desktop\introP331\introP331\bin\Debug\net6.0\introP331.pdb
+C:\Users\asus\Desktop\introP331\introP331\obj\Debug\net6.0\introP331.dll
+C:\Users\asus\Desktop\introP331\introP331\obj\Debug\net6.0\refint\introP331.dll
+C:\Users\asus\Desktop\introP331\introP331\obj\Debug\net6.0\introP331.pdb
+C:\Users\asus\Desktop\introP331\introP331\obj\Debug\net6.0\introP331.genruntimeconfig.cache
+C:\Users\asus\Desktop\introP331\introP331\obj\Debug\net6.0\ref\introP331.dll
